@@ -1,4 +1,3 @@
-package pratice_23rd_june2026;
 class K3
 {
         K3(int a)
